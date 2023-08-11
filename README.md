@@ -12,7 +12,8 @@ wallet that is supported by the Solana wallet adapter. For more information on
 Solana transaction fees, you can visit the official Solana documentation at
 https://docs.solana.com/transaction_fees.
 
-![image](https://github.com/erc20bridge/kin/assets/142039318/13d56f3b-6256-4c2b-be39-c68240535593)
+![image](https://github.com/erc20bridge/kin/assets/142039318/af35aee7-3c6b-4c30-9fa9-7d938eae23c7)
+
 
 ## Legal Disclaimer
 
