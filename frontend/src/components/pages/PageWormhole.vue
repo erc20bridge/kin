@@ -33,7 +33,7 @@ export default defineComponent({
 
         <p class="mt-3 mb-2 text-sm sm:text-xl tracking-tight
         text-slate-400">Use <a href="https://www.portalbridge.com/"
-        target="_blank" class="text-slate-200">Portal</a> to exchange your ERC20
+        target="_blank" class="text-slate-200">Portal</a> to swap your ERC20
         Kin for Wrapped Kin on Solana. Portal is an open-source tool that allows
         interaction with Wormhole, a cross-chain bridge developed and maintained
         by Jump Crypto. Learn more at <a href="https://docs.wormhole.com/wormhole/"
