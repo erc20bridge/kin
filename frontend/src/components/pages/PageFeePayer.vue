@@ -37,8 +37,8 @@ export default defineComponent({
     <div class="grid h-screen place-items-center mt-0 sm:mt-[-5rem]">
       <div class="max-w-2xl">
 
-        <p class="font-display text-4xl tracking-tight text-white">
-          Connect Wallet
+        <p class="font-display text-3xl tracking-tight text-white">
+          Step 2: Swap Wrapped Kin for SPL Kin
         </p>
 
         <p class="mt-3 mb-2 text-sm sm:text-xl tracking-tight text-slate-400">

@@ -27,8 +27,8 @@ export default defineComponent({
     <div class="grid h-screen place-items-center mt-0 sm:mt-[-5rem]">
       <div class="max-w-2xl">
 
-        <p class="font-display text-4xl tracking-tight text-white">
-          Wormhole ERC20 Kin
+        <p class="font-display text-3xl tracking-tight text-white">
+          Step 1: Swap ERC20 Kin for Wrapped Kin
         </p>
 
         <p class="mt-3 mb-2 text-sm sm:text-xl tracking-tight
