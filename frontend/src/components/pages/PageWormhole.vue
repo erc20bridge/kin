@@ -39,6 +39,11 @@ export default defineComponent({
         by Jump Crypto. Learn more at <a href="https://docs.wormhole.com/wormhole/"
         class="text-slate-200">https://docs.wormhole.com/wormhole/</a>.</p>
 
+        <p class="mt-10 mb-5 text-md max-w-sm tracking-tight
+        text-slate-200 font-semibold">Note: If you're using a Ledger device, we recommend
+        connecting to Portal using <a href="https://metamask.io/" class="underline">Metamask</a>.
+        </p>
+
         <div class="mt-10 flex gap-4 justify-end">
           <Button variant="secondary" @click="onBack()">Go Back</Button>
           <Button variant="primary"  @click="onConfirm()">Continue</Button>

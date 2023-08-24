@@ -29,7 +29,7 @@ const walletOptions = {
 };
 
 const opt = {
-  rpcUrl: "https://explorer-rpc.getcode.com",
+  rpcUrl: "https://kin-rpc.erc20bridge.org",
 }
 
 const app = createApp(App);
