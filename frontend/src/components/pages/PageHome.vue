@@ -15,7 +15,7 @@ function openRiskConsent() {
         <div class="max-w-2xl">
           <p
             class="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent hue-rotate-30">
-            Kin ERC20 Token Bridge
+            ERC20 Kin Bridge
           </p>
           <p class="mt-10 text-xl sm:text-2xl tracking-tight text-slate-400">
             This is an open source, client-only tool that enables a swap of Kin

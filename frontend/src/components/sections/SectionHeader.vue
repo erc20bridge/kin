@@ -82,7 +82,7 @@ export default defineComponent({
                     </svg>
 
 
-                    <span class="ml-2 mt-[-8px] text-2xl font-bold tracking-tight md:inline-block hidden">Kin Bridge</span>
+                    <span class="ml-2 mt-[-8px] text-2xl font-bold tracking-tight md:inline-block hidden">ERC20 Kin Bridge</span>
                 </a>
             </div>
 
