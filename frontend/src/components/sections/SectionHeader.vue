@@ -70,7 +70,7 @@ export default defineComponent({
     <header :class="classNames">
         <div class="mx-auto max-w-7xl flex flex-wrap items-center justify-between">
             <div class="relative hidden md:flex flex-grow basis-0 items-center">
-                <a href="/kin-erc20-swap/" class="text-white pl-2 hue-rotate-30">
+                <a href="/kin/" class="text-white pl-2 hue-rotate-30">
 
                     <svg viewBox="0 0 65 45" class="h-6 inline-block align-top">
                         <g fill="#38BDF8">
